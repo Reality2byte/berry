@@ -37,7 +37,7 @@
     "ansi-to-html": "^0.7.2",
     "clsx": "^1.2.1",
     "docusaurus-plugin-typedoc-api": "patch:docusaurus-plugin-typedoc-api@npm%3A4.4.0#~/.yarn/patches/docusaurus-plugin-typedoc-api-npm-4.4.0-2657a63517.patch",
-    "dompurify": "^3.0.5",
+    "dompurify": "^3.2.4",
     "esast-util-from-js": "^2.0.1",
     "esbuild-loader": "^2.20.0",
     "fast-glob": "^3.2.2",
