@@ -16,12 +16,12 @@
     "clipanion": "^4.0.0-rc.2",
     "cross-spawn": "^7.0.3",
     "fast-glob": "^3.2.2",
-    "micromatch": "^4.0.2",
+    "micromatch": "^4.0.8",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
     "@types/cross-spawn": "6.0.0",
-    "@types/micromatch": "^4.0.1",
+    "@types/micromatch": "^4.0.10",
     "@yarnpkg/monorepo": "workspace:^",
     "strip-ansi": "^6.0.0"
   },
