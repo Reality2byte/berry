@@ -13,13 +13,13 @@
     "@yarnpkg/fslib": "workspace:^",
     "clipanion": "^4.0.0-rc.2",
     "globby": "^11.0.1",
-    "micromatch": "^4.0.2",
+    "micromatch": "^4.0.8",
     "p-limit": "^2.2.0",
     "tslib": "^2.4.0",
     "typescript": "catalog:"
   },
   "devDependencies": {
-    "@types/micromatch": "^4.0.1",
+    "@types/micromatch": "^4.0.10",
     "@yarnpkg/monorepo": "workspace:^"
   },
   "scripts": {
