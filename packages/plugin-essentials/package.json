@@ -14,7 +14,7 @@
     "clipanion": "^4.0.0-rc.2",
     "enquirer": "^2.3.6",
     "es-toolkit": "^1.39.7",
-    "micromatch": "^4.0.2",
+    "micromatch": "^4.0.8",
     "semver": "^7.1.2",
     "tslib": "^2.4.0",
     "typanion": "^3.14.0"
@@ -25,7 +25,7 @@
     "@yarnpkg/plugin-git": "workspace:^"
   },
   "devDependencies": {
-    "@types/micromatch": "^4.0.1",
+    "@types/micromatch": "^4.0.10",
     "@types/semver": "^7.1.0",
     "@yarnpkg/cli": "workspace:^",
     "@yarnpkg/core": "workspace:^",

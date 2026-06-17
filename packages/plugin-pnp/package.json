@@ -12,7 +12,7 @@
     "@yarnpkg/plugin-stage": "workspace:^",
     "@yarnpkg/pnp": "workspace:^",
     "clipanion": "^4.0.0-rc.2",
-    "micromatch": "^4.0.2",
+    "micromatch": "^4.0.8",
     "tslib": "^2.4.0"
   },
   "peerDependencies": {
@@ -20,7 +20,7 @@
     "@yarnpkg/core": "workspace:^"
   },
   "devDependencies": {
-    "@types/micromatch": "^4.0.1",
+    "@types/micromatch": "^4.0.10",
     "@yarnpkg/cli": "workspace:^",
     "@yarnpkg/core": "workspace:^"
   },
